@@ -1,0 +1,23 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "ToDo App Typescript demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc",
+    "play": "tsc && node ./build/ToDoComponent.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapilbhagat2906/SapientNGSession-02Apr-ToDo.git"
+  },
+  "author": "Kapil Bhagat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapilbhagat2906/SapientNGSession-02Apr-ToDo/issues"
+  },
+  "homepage": "https://github.com/kapilbhagat2906/SapientNGSession-02Apr-ToDo#readme",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
